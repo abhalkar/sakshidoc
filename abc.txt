@@ -1,6 +1,3 @@
 my name is sakshi
-<<<<<<< HEAD
 my surmane is chaware
-=======
 my name is akshay
->>>>>>> dc5941d05bf3667dcc6e786875d34201b2e61d1e
